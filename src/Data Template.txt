@@ -1,0 +1,10 @@
+Title Test String
+Xtitle X axis
+Ytitle Y axis
+Xlower 0
+Xupper 10
+Xinterval 1.0
+Ylower 0
+Yupper 10
+Yinterval 1
+Data
